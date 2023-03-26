@@ -95,7 +95,3 @@ A social site Django project for Pythonistas. Created by following code along le
 ![Create Post](screenshots/create_post.png "Create Post")
 1. Logout
 ![Logout](screenshots/logout.png "Logout")
-
-
-
-
